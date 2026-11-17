@@ -1,0 +1,518 @@
+---
+title: "Home"
+source: "https://skillbuilder.aws/renderer/?module_id=VBHN7H4FNT%3A002.002.001&product_id=Y7MTGJCW1U%3A003.002.001&registration_id=621c2c13-ab7f-56f3-b918-4eb9fe08d362&referrer=https%3A%2F%2Fskillbuilder.aws%2Flearn%2FZEVZZ1D4AS%2Fintroduction-to-generative-ai--art-of-the-possible%2FY7MTGJCW1U&navigation=digital"
+author:
+published:
+created: 2026-11-17
+description: "AWS Skill Builder is an online learning center where you can learn from AWS experts and build cloud skills online. With access to 600+ free courses, certification exam prep, and training that Allows you to build practical skills there's something for everyone."
+tags:
+  - "clippings"
+---
+<iframe title="Training Content" src="https://skillbuilder.aws/cds/auth?endpoint=https%3A%2F%2Fskillbuilder.aws%2Flrs&amp;actor=%7B%22name%22%3A%223ea49537-c747-4817-a785-8cedfe39c232%22%2C%22openid%22%3A%22https%3A%2F%2Fgandalf-prod.auth.us-east-1.amazoncognito.com%2Fus-east-1_KcXGNtlRY%7C3ea49537-c747-4817-a785-8cedfe39c232%22%2C%22objectType%22%3A%22Agent%22%7D&amp;module_id=VBHN7H4FNT%3A002.002.001&amp;registration_id=621c2c13-ab7f-56f3-b918-4eb9fe08d362&amp;registration=621c2c13-ab7f-56f3-b918-4eb9fe08d362&amp;product_id=Y7MTGJCW1U%3A003.002.001&amp;activity_id=http%3A%2F%2Flms.amazon.com%2Flevitate%2F58Z3VNEHU2&amp;_cb=1794883352892" width="100%" height="100%" aria-label="Training Content"></iframe>
+
+In this Course
+
+Course Goals
+
+The Introduction to Generative AI - Art of the
+Possible course introduces the concept, use cases,
+and the importance of generative AI in a business
+context. This course focuses on business leaders and
+other decision-makers currently or potentially
+involved in generative AI projects.
+
+By the end of the course, you will be able to do the
+following:
+
+. Describe what generative AI is and how it fits
+in with machine learning (ML).
+. Describe the history of ML at Amazon.
+. Identify the generative AI services available
+at Amazon.
+. Explain why generative AI is important.
+. Describe some of the risks and benefits of
+generative AI.
+
+---
+title: "Home"
+source: "https://skillbuilder.aws/renderer/?module_id=VBHN7H4FNT%3A002.002.001&product_id=Y7MTGJCW1U%3A003.002.001&registration_id=621c2c13-ab7f-56f3-b918-4eb9fe08d362&referrer=https%3A%2F%2Fskillbuilder.aws%2Flearn%2FZEVZZ1D4AS%2Fintroduction-to-generative-ai--art-of-the-possible%2FY7MTGJCW1U&navigation=digital"
+author:
+published:
+created: 2026-11-17
+description: "AWS Skill Builder is an online learning center where you can learn from AWS experts and build cloud skills online. With access to 600+ free courses, certification exam prep, and training that allows you to build practical skills there's something for everyone."
+tags:
+  - "clippings"
+---
+<iframe title="Training Content" src="https://skillbuilder.aws/cds/auth?endpoint=https%3A%2F%2Fskillbuilder.aws%2Flrs&amp;actor=%7B%22name%22%3A%223ea49537-c747-4817-a785-8cedfe39c232%22%2C%22openid%22%3A%22https%3A%2F%2Fgandalf-prod.auth.us-east-1.amazoncognito.com%2Fus-east-1_KcXGNtlRY%7C3ea49537-c747-4817-a785-8cedfe39c232%22%2C%22objectType%22%3A%22Agent%22%7D&amp;module_id=VBHN7H4FNT%3A002.002.001&amp;registration_id=621c2c13-ab7f-56f3-b918-4eb9fe08d362&amp;registration=621c2c13-ab7f-56f3-b918-4eb9fe08d362&amp;product_id=Y7MTGJCW1U%3A003.002.001&amp;activity_id=http%3A%2F%2Flms.amazon.com%2Flevitate%2F58Z3VNEHU2&amp;_cb=1794883352892" width="100%" height="100%" aria-label="Training Content"></iframe>
+
+###Overview of ML###
+
+Introduction
+Generative Al is a branch of machine learning (ML) that addresses the development of algorithms that can
+create natural language text, images, code, audio, or videos based on user input. Generative Al has numerous
+applications in various industries, such as media, entertainment, healthcare, and finance. In this lesson, you
+learn about the relationship between ML and generative Al. You also get an introduction to generative Al and
+how businesses derive business value from the use of generative Al.
+
+Machine learning
+
+To better understand generative Al, you need to understand ML. You might ask yourself, "How do machines
+learn?" ML trains a computer to recognize patterns in historical data to make predictions on new data. These
+predictions help you take business actions. ML works as follows:
+
+![Flowchart of a Simple ML Task](https://skillbuilder.aws/cds/CONTENT_VBHN7H4FNT_002.002.001/assets/images/6716678c-9fe2-4a08-a2a2-38fb9ff539cf.jpeg)
+
+You use a dataset to train a model. In this dataset, there are features and labels. The goal is to take the
+features as inputs and find a formula that predicts the labels, or outputs. The resulting ML algorithms can take
+new data, recognize patterns in the data, apply the formula, and make predictions about the data.
+
+ML trains a computer to recognize patterns in historical data to mkae predictions on new data.
+
+History of ML at Amazon
+Al and ML have been a focus for Amazon for more than 20 years. Many of the Amazon services customers use
+are driven by ML. The following are a few examples of how Amazon uses ML:
+
+. The Amazon ecommerce recommendations engine is driven by ML.
+. The paths that optimize robotic picking routes in Amazon fulfillment centers are driven by ML.
+. The Amazon supply chain, forecasting, and capacity planning are informed by ML.
+. Amazon Prime Air (drone delivery) and the computer vision technology in Amazon Go (a physical retail
+store without formal check out experience) use deep learning (DL).
+. Amazon Alexa, powered by more than 30 different ML systems, helps customers billions of times each
+week to manage smart homes, shop, get information and entertainment, and more.
+
+There are thousands of engineers at Amazon committed to ML. It is a big part of the Amazon heritage, current
+ethos, and future.
+
+Understanding the Difference Between Generative Al and Traditional
+ML
+Generative Al is a type of artificial intelligence that can create new content, including text, images, code, and
+audio. Generative Al is built on deep learning architectures and is powered by foundation models (FMs), large
+models pretrained on internet-scale data. Unlike traditional deep learning applications that are trained for a
+single specific task, foundation models can be adapted to perform multiple tasks, often through natural
+language prompts alone and without the need for task-specific retraining.
+
+Deep learning uses the concept of neurons and synapses similar to how your brain works. An example of a
+deep learning application is Amazon Rekognition, which can analyze millions of images, streaming and stored
+videos within seconds. Amazon Q Developer, an example of a generative Al application, can generate code
+suggestions in real time based on your comments and existing code.
+
+FMs can work across a variety of modalities,
+including text, images, code, and audio. Large
+language models (LLMs) are one type of foundation
+model. With FMs, instead of gathering labeled data
+for each model and training multiple models as in
+traditional ML, customers can adapt the same FM to
+perform multiple tasks.
+
+LLMs have the ability to predict the next word in a
+sentence by taking into consideration the position
+and the context of a word in a sentence. LLMs use
+this ability to generate new content.
+
+[](https://skillbuilder.aws/cds/CONTENT_VBHN7H4FNT_002.002.001/assets/images/f6a3d52c-5045-453a-8c91-34ba4c42f5a5.png)
+
+Generative Al is a type of artificial intelligence that can create new content, including text, images, code, and
+audio.
+
+Evolution of ML and the Emergence of Generative Al
+Machine learning has been around for decades and the data scientists have been building language models for
+many years. What has led to the emergence of generative Al right now?
+
+To discover more about what contributed to the evolution of ML, choose each of the following flashcards.
+
+Several factors converged to drive the emergence of generative Al. A key breakthrough was the transformer
+architecture, introduced in 2017, which made it practical to train very large models efficiently. Combined with
+massive investments in compute resources, growing specialized teams, and organizational willingness to fund
+ambitious research, these factors together created the conditions for generative Al to flourish.
+
+Check Your Understanding
+Question: What is a key difference between foundation models used in generative Al and traditional deep
+learning models?
+
+A. Foundation models can only work with text data, while traditional models work with images.
+
+B. Foundation models can be adapted to perform multiple tasks, while traditional deep learning models are
+trained for a single specific task.
+
+C. Traditional deep learning models are pretrained on internet-scale data, while foundation models use small
+datasets.
+
+D. Foundation models require task-specific retraining for each new use case, while traditional models do not.
+
+###Basics of Generative AI###
+
+Introduction to Generative Al
+Generative Al is a type of Al that can create new content, including conversations, stories, images, videos,
+music, and code. Like all artificial intelligence, generative Al is powered by ML models. However, generative Al
+is powered by very large models that are pretrained on vast collections of data.
+
+Generative Al applications have captured our attention and imagination. Customers across industries are
+rapidly adopting ML technologies to transform their businesses. Many are reinventing customer experiences
+and applications with generative Al.
+
+/>
+
+Common Applications
+You can apply generative Al across all lines of business, including engineering, marketing, customer service,
+finance, and sales. You can also apply it to many use cases, from text summarization to image generation.
+Many customers, from healthcare to financial services, are already working on new applications.
+
+Improve customer experience
+
+You can use generative Al to improve customer
+experience through capabilities such as virtual
+assistants, intelligent contact centers,
+personalization, and content moderation. Media
+companies are building the next generation of tools
+with AWS for many of these use cases.
+
+Boost employee productivity
+
+You can boost employee productivity with
+generative Al powered conversational search,
+content creation, text summarization, and code
+generation. Customers are driving game-changing
+productivity increases for their developers with
+Amazon Q Developer.
+
+Business users spend a lot of time extracting data
+and insights from a dashboard to create
+presentations for other stakeholders. Amazon Quick
+uses the power of generative Al to generate,
+customize, and share compelling visual narratives
+using natural language prompts, thereby increasing
+business user productivity.
+
+Creativity
+You can use generative Al to increase production of
+all types of creative content, from art and music to
+text, images, animations, and video.
+
+Improve business operations
+
+You can use generative Al to improve business
+operations with intelligent document processing,
+maintenance assistants, quality control and visual
+inspection, and synthetic training data generation.
+
+Benefits of Generative Al
+The benefits businesses can realize from generative Al are just now coming to the market. For more
+information review the following four benefits.
+
+
+Personalize customer
+interactions.
+
+Generate novel
+content.
+
+Efficiently adapt pre-
+built models to
+business use cases.
+
+Achieve productivity
+gains through
+automation.
+
+Businesses use generative Al to produce content for consumer consumption faster than ever before.
+
+Marketing teams can quickly perform A/B testing on
+product images with different color sets and
+backdrops. They can target different audiences
+more effectively on social media outlets and create
+custom animations in a fraction of the time
+compared to using traditional methods. They can
+also send written copy quickly to various press
+outlets.
+
+Developers can use Amazon Q Developer to
+generate routine code blocks and implement third-
+party APIs. This can increase productivity and
+improve overall performance by accelerating coding
+and reducing development efforts. It has the
+potential to make entire engineering organizations
+more productive.
+
+Check Your Understanding
+Question: Which of the following is a benefit of generative Al for businesses?
+
+A. It replaces the need for all human employees in creative roles.
+
+B. It can only generate text-based content for marketing teams.
+
+C. It can efficiently adapt pre-built models to business use cases.
+
+D. It requires businesses to build models from scratch for each task.
+
+###Geneartive AI Use Cases###
+
+Introduction
+Generative Al has the potential to bring about sweeping changes to the global economy. Goldman Sachs
+estimates that about two-thirds of US occupations will be enhanced by Al. Al will likely drive the creation of
+new jobs and the emergence of new occupations for the vast majority of long-run employment growth.
+
+The future forecasts to be a period of intense experimentation. It is expected that new architectures will arise
+in the future, and this diversity will set off a wave of innovation. Generative Al will play a transformational role
+in every industry.
+
+Use Cases for Businesses
+The following information explores six common industry-based uses cases.
+
+##Healthcare##
+
+Generative Al contributes to healthcare in the following ways:
+
+. AWS HealthScribe: Empowers healthcare software vendors to build clinical applications
+that automatically generate clinical notes by analyzing patient-clinician conversations.
+. Personalized medicine: By generating treatment plans based on a patient's specific genetic
+makeup, lifestyle, and disease progression, Al can contribute to more effective,
+personalized care.
+. Medical imaging: Al can enhance, reconstruct, or even generate medical images, like X-rays,
+MRIs, or CT scans, which can aid in better diagnosis.
+
+##Life Sciences##
+Generative Al contributes to life sciences in the following ways:
+
+· Drug discovery: Al can generate new potential molecular structures for drugs, accelerating
+the process of drug discovery and reducing costs.
+. Protein folding prediction: Al can predict the 3D structures of proteins based on their
+amino acid sequence, which is crucial for understanding diseases and developing new
+therapies.
+. Synthetic biology: Al can generate designs for synthetic biological systems, such as
+engineered organisms or biological circuits.
+
+##Financial Services##
+Generative Al contributes to financial services in the following ways:
+
+. Fraud detection mechanisms: Generative Al can help create synthetic datasets to improve
+Al/ML systems by simulating various money-laundering patterns.
+. Portfolio management: Generative Al can simulate various market scenarios and help in
+the creation and management of robust investment portfolios.
+. Debt collection: Al can generate the most effective communication and negotiation
+strategies for debt collection, increasing the rate of successful collections.
+
+Across the banking industry, for example, Al technology can deliver value equal to an additional
+$200-$340 billion annually if the use cases above are fully implemented (McKinsey Report 2023).
+
+##Manufacturing##
+Generative Al contributes to manufacturing in the following ways:
+
+. Product design: Generative Al can be used to create new product designs based on set
+parameters and constraints. It can generate multiple design options and optimize for
+factors like cost, materials, performance, and so forth.
+. Process optimization: Al can generate the most efficient production processes by modeling
+different scenarios and optimizing for variables such as cost, time, resource usage, and so
+forth.
+. Preventative maintenance: By analyzing historical production data, Al can predict
+maintenance schedules that will provide the most efficient machine outputs and reduce
+downtimes.
+. Material science: Al can help generate new material compositions with desired properties.
+
+##Retail##
+Generative Al contributes to retail in the following ways:
+
+. Pricing optimization: Generative Al can model different pricing scenarios to determine
+optimal pricing strategies that maximize profits.
+. Virtual try-ons: Al can generate virtual models of customers for virtual try-ons, improving
+the online shopping experience.
+. Store layout optimization: Al can generate the most efficient store layouts to improve the
+customer shopping experience and boost sales.
+. Product review summaries: Al can generate review summaries for products so consumers
+can quickly find pertinent information.
+
+In retail and consumer packaged goods, the potential generative Al impact is significant at $400
+billion to $660 billion a year. (McKinsey Report 2023).
+
+##Media and Entertainment##
+Generative Al contributes to media and entertainment in the following ways:
+
+. Content generation: Generative Al can be used to create scripts, dialogues, or even
+complete stories for films, TV shows, and games.
+. Virtual reality: Generative Al can create immersive and interactive virtual environments for
+games or simulations.
+. News generation: Al can generate news articles or summaries based on raw data or events.
+
+Generative Al Customer Stories
+
+To learn how customers are unlocking value with generative Al on AWS, choose the following link.
+
+[Gen AI Stories](https://aws.amazon.com/ai/generative-ai/customers/)
+
+The Economic Potential of Generative Al
+
+To access the McKinsey & Company report from June 14, 2023, choose the following link.
+
+[Economic potential](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-AI-the-next-productivity-frontier#/)
+
+Amazon Uses Generative Al with Alexa
+One of the ways Amazon is using generative Al is with the Create With Alexa feature. Create With Alexa uses
+advances in conversational and generative Al to empower young storytellers to build unique stories with a
+narrative arc, colorful graphics, and fun, complementary background music. The animated stories then come
+to life on the screen of Amazon Echo Show devices.
+
+To build these stories, Alexa researchers created several different content generators using generative AI.
+
+
+Story generation
+The story generator includes two models that use pretrained language models. The planner
+model receives the customer-selected prompts and uses them to generate a longer set of
+keywords that are allocated to separate scenes. The keywords constitute the story plan. The text
+generator model receives the story plan and outputs the story text. It uses human-written stories
+labeled according to the themes that customers will ultimately choose from, such as
+underwater and enchanted forest.
+
+Scene generation
+The scene generation text is processed through two natural language processing (NLP) modules.
+This lets the module determine references to pronouns and other indicative words and rewrite
+the text accordingly. For example, if the mermaid mentioned in scene one is referred to as she in
+scene two, the module rewrites she as the mermaid. This makes the scene generator more
+efficient at interpreting the text.
+
+Music generation
+The music generation is processed from a large library of instrumental parts. At run time, the
+library can combine parts automatically to create a theme and instrumental signature for each
+hero character. An Al musical-arrangement system fits all the pieces together based on their
+attributes, such as chord progression, rhythm, and instrument type.
+
+A text-to-speech model computes the time it will take to read the text. The model's outputs help
+to determine the duration and character of the background music. A paralinguistic-analysis
+model scores the text along multiple axes, such as calm to exciting and sad to happy.
+
+The Science Behind Alexa's New Interactive Story-Creation Experience
+To learn more about the generative Al science behind the Alexa interactive story-creation experience, choose
+the following link.
+
+[Story Creation](https://www.amazon.science/blog/the-science-behind-alexas-new-interactive-story-creation-experience)
+
+Check Your Understanding
+Question: A pharmaceutical company wants to speed up the process of identifying new drug candidates while
+reducing costs. Which generative Al capability would best address this need?
+
+A. Generating synthetic datasets to simulate money-laundering patterns
+
+B. Generating new potential molecular structures for drugs
+
+C. Predicting maintenance schedules based on historical production data
+
+D. Creating virtual models of customers for virtual try-ons
+
+Generative Al on AWS
+
+Introduction
+AWS provides a comprehensive group of services that help you implement generative Al solutions. With AWS,
+you can use advanced machine learning models, robust data processing capabilities, and secure infrastructure
+to integrate generative Al into your operations. You can streamline processes, optimize workflows, and deliver
+exceptional value to your customers, all while maintaining data security and compliance.
+
+Generative AI services on AWS
+
+[GenAI on AWS](https://skillbuilder.aws/cds/CONTENT_VBHN7H4FNT_002.002.001/assets/images/53eb0aa0-8b60-4e7c-ba74-11d1f2acc1ce.png)
+
+Amazon focuses on three macro layers for generative Al: compute, build your own models, and foundation
+models (FMs).
+
+Compute
+
+First there is the compute required to run large language models (LLMs). Amazon has two specialized
+chips for this purpose.
+
+. AWS Inferentia and AWS Trainium are purpose-built ML accelerators that AWS designed from the
+ground up.
+. The first-generation of AWS Inferentia delivers significant performance and cost-savings benefits
+for deploying smaller models. AWS Trainium and AWS Inferentia2 are built for training and
+deploying ultra-large generative Al models with hundreds of billions of parameters.
+
+
+Build your own models
+
+Next, you can build your own models using Amazon SageMaker Jumpstart. Details are as follows:
+
+. You can use Amazon SageMaker Al along with the purpose-built AWS Trainium chip to train your
+own LLMs.
+. Alternatively, choose one of the language models available in SageMaker Jumpstart and retrain it
+with your own data.
+
+
+Foundation Model
+
+Finally, there are the models themselves. FMs with billions of parameters require time and resources to
+pretrain. Why build your own FM when you can take advantage of the leading FMs already on the
+market? Consider the following:
+
+. Amazon Bedrock is a fully managed service that makes FMs, including Amazon Titan models, from
+leading Al startups and Amazon available through an API. Customers can choose from a wide
+range of FMs to find the model that is best suited for their use case.
+. Amazon Bedrock is the most efficient way to build and scale generative Al applications with FMs.
+
+Generative AI on AWS
+
+To learn more about how to transform your business with generative Al, choose the following link.
+
+[Gen Al on AWS](https://aws.amazon.com/ai/generative-ai/)
+
+Generative Al Innovation Center
+
+To learn more about how to shape the future of your business with generative Al capabilities, choose the
+following link.
+
+[Innovation center](https://aws.amazon.com/ai/generative-ai/innovation-center/)
+
+How to build and scale generative Al applications on AWS
+
+To learn more about tools for building generative Al applications, choose the following link.
+
+[Build with Gen AI](https://aws.amazon.com/ai/generative-ai/services/?sec=aiapps&pos=0)
+
+
+Generating Code with Amazon Q Developer
+
+You can use Amazon Q Developer as an example of generative Al that businesses are using. Amazon Q
+Developer serves as the Al coding companion. Amazon Q Developer is a generative Al tool that helps increase
+developer productivity by generating code.
+
+During the Amazon Q Developer preview, Amazon ran a productivity
+challenge. Participants who used Amazon Q Developer were 27 percent more
+likely to complete tasks successfully and did so an average of 57 percent faster
+than those who didn't use Amazon Q Developer.
+
+Developers are often forced to break their workflow to search the internet or to ask their colleagues for help
+completing a task. Although this can help them obtain the starter code they need, it's disruptive. They must
+leave their integrated development environment (IDE) to search or ask questions in a forum or to find and ask
+a colleague, further adding to the disruption. Instead, Amazon Q Developer meets developers where they are
+most productive, providing real-time recommendations as they write code or comments in their IDE.
+
+What are customers saying about Amazon Q Developer?
+
+Accenture uses Amazon Q Developer to improve developer productivity, including for developer onboarding,
+writing boilerplate code, using unfamiliar languages, and detecting security vulnerabilities. The following
+quote from Balakrishnan Viswanathan, Senior Manager, Tech Architecture at Accenture, highlights the impact
+Amazon Q Developer has had on the company's business.
+
+"Accenture is using Amazon Q Developer to accelerate coding as part of our software engineering best
+practices initiative in our Velocity platform," says Viswanathan. "The Velocity team was looking for ways to
+improve developer productivity. After searching for multiple options, we came across Amazon Q to reduce our
+development efforts by up to 30% and we are now focusing more on improving security, quality, and
+performance."
+
+Amazon Q Developer
+To learn more about Amazon Q Developer, choose the following link.
+
+[Amazon Q Developer](https://aws.amazon.com/q/developer/)
+
+Amazon Q Developer customers
+To learn more about how customers are using Amazon Q Developer, choose the following link.
+
+[Amazon Q Customers](https://aws.amazon.com/q/customers/#Amazon_Q_Developer_customers)
+
+Check Your Understanding
+Question: A development team frequently loses productivity because they must leave their IDE to search the
+internet or ask colleagues for help with coding tasks. Which AWS service would best address this workflow
+disruption?
+
+A. AWS Trainium
+
+B. Amazon Quick
+
+C. Amazon Q Developer
+
+D. AWS Inferentia
